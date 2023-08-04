@@ -1,5 +1,7 @@
 # Diabetes-Prediction-Using-Machine-Learning
 ### Diabetes Prediction Using Machine Learning ###
+![istockphoto-842463816-612x612](https://github.com/YAMUNAVV/Diabetes-Prediction-Using-Machine-Learning/assets/124666569/5876c874-6ad5-4efb-b384-c897369de55f)
+
 
 we will be predicting that whether the patient has diabetes or not on the basis of the features we will provide to our machine learning model, and for that, we will be using the famous Pima Indians Diabetes Database.
 
